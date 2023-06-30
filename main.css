@@ -33,10 +33,10 @@ img {
 }
 
 img.profile-pic {
-	height: 20%;
+	height: 100%;
 	width: auto;
 	object-fit: cover;
-	border-radius: 80%;
+	border-radius: 50%;
 }
 
 .container {
